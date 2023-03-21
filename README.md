@@ -1,5 +1,5 @@
 # pekarni<html>
-<title>пекарни</title>
+<title>пекарни всех стран</title>
 <header>
 <h1>Самые вкусные пекарни России собраны у нас!</h1>
 <text-align:center>
